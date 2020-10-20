@@ -1,3 +1,3 @@
 # Wallheaven_Downloader
 下载wallheaven.cc的壁纸
-本程序用Python38+requests+lxml库开发，使用前需要安装requests库
+本程序用Python38+requests+lxml库开发，使用前需要安装requests库和lxml库
